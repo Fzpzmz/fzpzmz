@@ -3,8 +3,6 @@
 ## 💻 Frontend Developer 💻
 
 
----
-
 ## 🚀 My projects:
 
 ### ⚛️ React 
