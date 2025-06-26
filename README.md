@@ -12,5 +12,3 @@
 ### 🟨 JavaScript
 - **[Calculator](https://github.com/Fzpzmz/Calculator)** 
 - **[To-Do List](https://github.com/Fzpzmz/To-Do-List)** 
-
----
