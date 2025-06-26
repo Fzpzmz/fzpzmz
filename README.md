@@ -1,6 +1,5 @@
 # 👋 Hey! My name is Tim
-
-## 💻 Frontend Developer 💻
+💻 Frontend Developer 💻
 
 
 ## 🚀 My projects:
